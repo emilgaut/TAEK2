@@ -2,7 +2,7 @@
 
 ## 1. Fyrir     l,kdfælkf
 
-RAM er kakslklf
+RAM is the temporary working storage for data and programs that are being accessed by the CPU.
 
 ## 3.	Hvað er fyrirbyggjandi viðhald?
 
