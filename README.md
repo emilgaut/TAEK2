@@ -10,10 +10,10 @@ RAM is the temporary working storage for data and programs that are being access
 
 ## 6.	Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 
-+Identify the Problem
-+Establish a Theory of Probable Cause
-+Test the Theory to Determine Cause
-+Establish a Plan of Action to Resolve the Problem and Implement the Solution
-+Verify Full System Functionality and, If Applicable, Implement Preventive Measures
-+Document Findings, Actions, and Outcomes
++ Identify the Problem
++ Establish a Theory of Probable Cause
++ Test the Theory to Determine Cause
++ Establish a Plan of Action to Resolve the Problem and Implement the Solution
++ Verify Full System Functionality and, If Applicable, Implement Preventive Measures
+* Document Findings, Actions, and Outcomes
 
