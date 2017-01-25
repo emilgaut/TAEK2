@@ -1,6 +1,6 @@
-# TAEK2
+# TAEK2 verkefni1.
 
-## 1. Fyrir     l,kdfælkf
+## 1.	Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
 
 RAM is the temporary working storage for data and programs that are being accessed by the CPU.
 
