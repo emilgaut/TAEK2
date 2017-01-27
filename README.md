@@ -18,3 +18,11 @@ RAM is the temporary working storage for data and programs that are being access
 5. Verify Full System Functionality and, If Applicable, Implement Preventive Measures
 1. Document Findings, Actions, and Outcomes
 
+## 10. Notaðu vefsíðu íslenskra tölvuverslanna til að velja íhluti til að setja saman góða leikjatölvu. Þú hefur fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostaði og hvar hann fæst.
+
+ Íhlutur | Tegund | Verð | Söluaðili
+ --- | --- | --- | ---
+ Kassi | Flottur | 20.000,- | Tölvusalan
+ Móðurborð | H-bit | 30.000,- | Partar
+ Minni | Best (2x8MB)  | 60.000,- | Vefurinn
+ ? | ? | ? | ?
