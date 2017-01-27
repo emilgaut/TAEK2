@@ -25,4 +25,4 @@ RAM is the temporary working storage for data and programs that are being access
  Kassi | Flottur | 20.000,- | Tölvusalan
  Móðurborð | H-bit | 30.000,- | Partar
  Minni | Best (2x8MB)  | 60.000,- | Vefurinn
- ? | ? | ? | ?
+ SSD | !(https://tolvutek.is/vara/1tb-sata3-plexor-ssd-25-m6-pro-xtreme-abyrgd-5-ar) | 90.000,- | Tölvutek
