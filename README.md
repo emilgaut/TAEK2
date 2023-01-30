@@ -28,4 +28,4 @@ RAM is the temporary working storage for data and programs that are being access
  SSD | ![alt text](https://tolvutek.is/skrar/image/myndir_product/CHFF3_M6P.jpg) | 90.000,- | Tölvutek
 
 
-![mynd af einhverju]() 
+![mynd af einhverju](images.jpg) 
